@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="3" ignored="0" total="10" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="80" started-at="2017-12-07T07:07:41Z" finished-at="2017-12-07T07:07:41Z">
+  <suite name="Suite" duration-ms="69" started-at="2017-12-07T07:25:16Z" finished-at="2017-12-07T07:25:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="80" started-at="2017-12-07T07:07:41Z" finished-at="2017-12-07T07:07:41Z">
+    <test name="Test" duration-ms="69" started-at="2017-12-07T07:25:16Z" finished-at="2017-12-07T07:25:16Z">
       <class name="com.test.TestPractice">
-        <test-method status="PASS" signature="verifyTestCaseEight()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseEight" duration-ms="18" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseEight()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseEight" duration-ms="13" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseEight -->
-        <test-method status="PASS" signature="verifyTestCaseFive()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseFive" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseFive()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseFive" duration-ms="1" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseFive -->
-        <test-method status="FAIL" signature="verifyTestCaseFour()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseFour" duration-ms="4" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="FAIL" signature="verifyTestCaseFour()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseFour" duration-ms="3" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Test Case Four Failed expected [true] but found [false]]]>
@@ -57,23 +57,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseFour -->
-        <test-method status="PASS" signature="verifyTestCaseNine()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseNine" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseNine()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseNine" duration-ms="2" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseNine -->
-        <test-method status="PASS" signature="verifyTestCaseOne()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseOne" duration-ms="2" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseOne()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseOne" duration-ms="2" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseOne -->
-        <test-method status="PASS" signature="verifyTestCaseSeven()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseSeven" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseSeven()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseSeven" duration-ms="2" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseSeven -->
-        <test-method status="PASS" signature="verifyTestCaseSix()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseSix" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseSix()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseSix" duration-ms="2" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseSix -->
-        <test-method status="FAIL" signature="verifyTestCaseTen()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseTen" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="FAIL" signature="verifyTestCaseTen()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseTen" duration-ms="1" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Test Case Ten Failed expected [true] but found [false]]]>
@@ -115,7 +115,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseTen -->
-        <test-method status="FAIL" signature="verifyTestCaseThree()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseThree" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="FAIL" signature="verifyTestCaseThree()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseThree" duration-ms="2" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Test Case Three Failed expected [true] but found [false]]]>
@@ -157,11 +157,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseThree -->
-        <test-method status="PASS" signature="verifyTestCaseTwo()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseTwo" duration-ms="1" started-at="2017-12-07T12:37:41Z" finished-at="2017-12-07T12:37:41Z">
+        <test-method status="PASS" signature="verifyTestCaseTwo()[pri:0, instance:com.test.TestPractice@2669b199]" name="verifyTestCaseTwo" duration-ms="1" started-at="2017-12-07T12:55:16Z" finished-at="2017-12-07T12:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTestCaseTwo -->
       </class> <!-- com.test.TestPractice -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
